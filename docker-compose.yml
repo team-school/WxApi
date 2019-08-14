@@ -1,4 +1,4 @@
-version: '2.2'
+version: '0.0'
 
 services:
   mycompany.wxproject.web.host:
