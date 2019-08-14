@@ -6,3 +6,4 @@ services:
     build:
       context: .
       dockerfile: src/MyCompany.WXProject.Web.Host/Dockerfile
+           
