@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  mycompany.wxproject.web.host:
+    image: ${DOCKER_REGISTRY-}mycompanywxprojectwebhost
+    build:
+      context: .
+      dockerfile: src/MyCompany.WXProject.Web.Host/Dockerfile
