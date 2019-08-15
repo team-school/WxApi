@@ -1,8 +1,8 @@
-version: '3.4'
+version: '3.3'
 
 services:
   mycompany.wxproject.web.host:
-    image: mycompanywxprojectwebhost
+    image:mycompanywxprojectwebhost
     build:
       context: .
       dockerfile: src/MyCompany.WXProject.Web.Host/Dockerfile

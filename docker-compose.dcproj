@@ -3,7 +3,7 @@
   <PropertyGroup Label="Globals">
     <ProjectVersion>2.1</ProjectVersion>
     <DockerTargetOS>Linux</DockerTargetOS>
-    <ProjectGuid>b4d5deaf-1330-4ad9-b600-9fcc99e4397f</ProjectGuid>
+    <ProjectGuid>000e47c2-5191-42b6-94ee-b504745f2436</ProjectGuid>
     <DockerLaunchAction>LaunchBrowser</DockerLaunchAction>
     <DockerServiceUrl>{Scheme}://localhost:{ServicePort}</DockerServiceUrl>
     <DockerServiceName>mycompany.wxproject.web.host</DockerServiceName>
